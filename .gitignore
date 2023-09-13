@@ -1,5 +1,4 @@
 .env
-attributesScript.py
 song_history.csv
 ./.vscode
 .cache
